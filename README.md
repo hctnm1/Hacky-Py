@@ -1,4 +1,3 @@
-![](https://github.com/hctnm2/OpenSourceEnthusiast/raw/main/.assets/HFest2022.png)
 # Hacky-PY
 Know a bit of python &amp; need pr for hacktoberfest ? come join us in the journey 
 
