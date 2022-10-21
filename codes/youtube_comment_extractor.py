@@ -151,6 +151,8 @@ if __name__ == "__main__":
             pprint(comment)
             print("="*50)
     print("total comments extracted:", count)
+    print("All Comment Extracted Successfully")
+    print("THank YOu for using")
     if output:
         # remove the last comma ','
         with open(output, "rb+") as f:
