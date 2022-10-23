@@ -1,4 +1,4 @@
-[12:09 PM, 2/9/2022] Daniyal Uit: print('---Welcome to Hashmart---')
+print('---Welcome to Hashmart---')
 print('First create your account--')
 name_1=input('Enter your name = ')
 pass_1=int(input("enter your password="))
