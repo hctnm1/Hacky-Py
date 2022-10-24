@@ -12,9 +12,7 @@ def bubbleSort(array):
 
                 # swapping elements if elements
                 # are not in the intended order
-                temp = array[j]
-                array[j] = array[j + 1]
-                array[j + 1] = temp
+                array[j], arr[j + 1] = array[j + 1], arr[j]
 
 
 data = [-2, 45, 0, 11, -9]
