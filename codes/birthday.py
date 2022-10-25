@@ -1,3 +1,4 @@
+#first install pygame to import mixer
 import turtle
 import random
 import time
@@ -105,3 +106,4 @@ turtle.pendown()
 turtle.write(arg=f"Happy Birthday Name!", align="left", font=("jokerman", 24, "normal"))
 
 time.sleep(5)
+exit()
